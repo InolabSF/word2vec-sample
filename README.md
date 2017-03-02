@@ -11,7 +11,7 @@ $ ./install.sh
 ## Making Model
 
 ```
-$ ./run.sh
+$ ./make.sh
 ```
 
 
